@@ -4,8 +4,11 @@
 
 > Descrição do projeto "Um app desktop, desenvolvido em JavaScrip, utilizando o framework electron com o intuito de permitir realizar operações matemáticas básicas como adição, subtração, multiplicação e divisão."
 
-[![SusanMarques](https://img.shields.io/badge/SusanMarques-SusanMarques-ff9000?style=flat-square)](https://github.com/SusanMarques)[![Languages](https://img.shields.io/github/languages/count/SusanMarques/calculadora-electron?color=%23ff9000&style=flat-square)](#)[![Stars](https://img.shields.io/github/stars/SusanMarques/calculadora-electron
-?color=ff9000&style=flat-square)](https://github.com/SusanMarques/calculadora-electron/stargazers)[![Forks](https://img.shields.io/github/forks/SusanMarques/calculadora-electron?color=%23ff9000&style=flat-square)](https://github.com/SusanMarques/calculadora-electron/network/members)[![Contributors](https://img.shields.io/github/contributors/SusanMarques/calculadora-electron?color=ff9000&style=flat-square)](https://github.com/SusanMarques/calculadora-electron/graphs/contributors)
+[![SusanMarques](https://img.shields.io/badge/SusanMarques-SusanMarques-ff9000?style=flat-square)](https://github.com/SusanMarques)
+[![Languages](https://img.shields.io/github/languages/count/SusanMarques/calculadora-electron?color=%23ff9000&style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SusanMarques/calculadora-electron?color=ff9000&style=flat-square)](https://github.com/SusanMarques/calculadora-electron/stargazers)
+[![Forks](https://img.shields.io/github/forks/SusanMarques/calculadora-electron?color=%23ff9000&style=flat-square)](https://github.com/SusanMarques/calculadora-electron/network/members)
+[![Contributors](https://img.shields.io/github/contributors/SusanMarques/calculadora-electron?color=ff9000&style=flat-square)](https://github.com/SusanMarques/calculadora-electron/graphs/contributors)
 
 # :pushpin: Sumario deste projeto
 
