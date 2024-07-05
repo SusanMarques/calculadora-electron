@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../assets/style.css">
+    <title>Calculadora</title>
+</head>
+<body>
+    
+    <div id="campo">
+        <div id="history"></div>
+        <input type="text" id="display" disabled> 
+    </div>
+    <div class="calculadora">
+        <div id="algarismos">
+            <button onclick="clearDisplay()" id="ac">AC</button>
+            <button onclick="deleteLast()" id="Apagar">&#9003;</button>
+            <button onclick="appendCharacter('/')" id="divisao">/</button>
+            <div class="bloco">
+                <button onclick="appendCharacter('7')" class="numeros">7</button>
+                <button onclick="appendCharacter('8')"class="numeros">8</button>
+                <button onclick="appendCharacter('9')"class="numeros">9</button>
+            </div>
+            <div class="bloco">
+                <button onclick="appendCharacter('4')" class="numeros">4</button>
+                <button onclick="appendCharacter('5')" class="numeros">5</button>
+                <button onclick="appendCharacter('6')" class="numeros">6</button>
+            </div>
+            <div class="bloco">
+                <button onclick="appendCharacter('1')" class="numeros">1</button>
+                <button onclick="appendCharacter('2')" class="numeros">2</button>
+                <button onclick="appendCharacter('3')" class="numeros">3</button>
+            </div>
+            
+        </div>
+        
+        <div class="sinais">
+            <button onclick="appendCharacter('+')" id="adicao">+</button>
+            <button onclick="appendCharacter('-')" id="subtracao">-</button>
+            <button onclick="appendCharacter('*')" id="multiplicacao">*</button>
+            <button onclick="calculateResult()" id="igual">=</button>
+            
+        </div>
+    </div>
+    <div id="campo-inferior">
+        <button  onclick="appendCharacter('0')" id="zero">0</button>
+        <button onclick="appendCharacter('.')" id="ponto">.</button>
+    </div>
+        <script src="../js/script.js"></script>
+</body>
+</html>
