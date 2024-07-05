@@ -8,7 +8,8 @@ app.on('ready', ()=>{
         width: 280, 
         height: 520,
         icon: 'icon/calculadora.ico',
-        autoHideMenuBar: 'false'
+        autoHideMenuBar: 'false',
+        resizable: false
     })
 
     mainWindow.loadFile('app/index.html')
