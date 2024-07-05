@@ -28,21 +28,21 @@
 - Esta calculadora possui diversas funcionalidades básicas e avançadas que permitem ao usuário realizar operações matemáticas simples e manipular a entrada de dados de forma eficiente. Abaixo estão detalhadas as principais funcionalidades implementadas:
 
 1.	Entrada de Números:
-o	Botões de Números: A calculadora possui botões numerados de 0 a 9 que permitem ao usuário inserir números na expressão atual.
+-	Botões de Números: A calculadora possui botões numerados de 0 a 9 que permitem ao usuário inserir números na expressão atual.
 2.	Operações Matemáticas:
-o	Adição (+): Permite adicionar números.
-o	Subtração (-): Permite subtrair números.
-o	Multiplicação (*): Permite multiplicar números.
-o	Divisão (/): Permite dividir números.
+-	Adição (+): Permite adicionar números.
+-	Subtração (-): Permite subtrair números.
+-	Multiplicação (*): Permite multiplicar números.
+-	Divisão (/): Permite dividir números.
 3.	Manipulação de Expressão:
-o	Limpar Display (AC): Limpa a expressão atual e o histórico, reiniciando a calculadora.
-o	Apagar Último Caractere (←): Remove o último caractere da expressão atual, permitindo correções rápidas.
+-	Limpar Display (AC): Limpa a expressão atual e o histórico, reiniciando a calculadora.
+-	Apagar Último Caractere (←): Remove o último caractere da expressão atual, permitindo correções rápidas.
 4.	Ponto Decimal:
-o	Ponto (.): Permite a entrada de números decimais na expressão.
+-	Ponto (.): Permite a entrada de números decimais na expressão.
 5.	Cálculo do Resultado:
-o	Igual (=): Calcula e exibe o resultado da expressão atual. Se a expressão for inválida, exibe um erro.
+-	Igual (=): Calcula e exibe o resultado da expressão atual. Se a expressão for inválida, exibe um erro.
 6.	Histórico:
-o	Histórico de Expressões: Exibe a expressão atual e o resultado após a avaliação, permitindo ao usuário ver o cálculo realizado.
+-	Histórico de Expressões: Exibe a expressão atual e o resultado após a avaliação, permitindo ao usuário ver o cálculo realizado.
 
 
 # :framed_picture: UI Interface do Usuário
